@@ -87,7 +87,7 @@ It’s a bit tedious, but there’s enough space. Just be gentle to avoid damagi
 ![RCN1BNC5](img/img_13_alt.jpg)
 
 1️⃣1️⃣ Remove everything and drill the holes properly.
-Then use a screw to cut threads into the plastic and secure everything into place.
+Then use a screw to cut threads into the plastic and secure everything into place with the original screws and 3 M3*5 screws.
 
 ![RCN1BNC6](img/img_14_alt2.jpg)
 
